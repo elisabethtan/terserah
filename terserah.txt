@@ -1,0 +1,5 @@
+git config --global user.name
+"elisabethtan"
+
+git config --global user.email
+"elisabeth@student.umn.ac.id"
